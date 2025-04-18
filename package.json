@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
 
-  "homepage": "https://dimakokovin.github.io/homeworks-front",
+  "homepage": "https://dimakokovin.github.io/homeworks-front/manifest.json",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^13.0.0",
